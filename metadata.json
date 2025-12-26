@@ -1,0 +1,5 @@
+{
+  "name": "UAF Nexus",
+  "description": "A comprehensive university-based social platform featuring graph-theory-driven friend recommendations and network visualizations.",
+  "requestFramePermissions": []
+}
